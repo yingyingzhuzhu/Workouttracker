@@ -1,17 +1,19 @@
 # Workout Tracker
 
-## front end
+## Front End
 Framework7
 
-## back end
+## Back End
 Java, Ajax
 
-## database
+## Database
 Web SQL
 
-## User function
+## Function
 Add new workout
+
 Edit workout
+
 Delete workout
 
 # Framework7 PhoneGap Application 
