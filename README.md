@@ -4,10 +4,10 @@
 Framework7
 
 ## back end
-Java
+Java, Ajax
 
 ## database
-Web storage
+Web SQL
 
 ## User function
 Add new workout
